@@ -56,6 +56,7 @@ Order Date and Time
 - Designed an easy-to-navigate dashboard highlighting key insights.
 
 🖼️  **Dashboard Image** :
+
 ![Dashboard image](https://github.com/user-attachments/assets/d47b8864-a921-4dcf-9d47-2c3b63bf1236)
 
 📍 **Project Insights** :
