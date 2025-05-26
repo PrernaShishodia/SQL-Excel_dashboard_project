@@ -6,9 +6,9 @@ The objective of this project is to perform detailed sales analysis of a pizza r
 
 📊 ##  **Dataset Used** :
 
-Dataset: https://github.com/PrernaShishodia/SQL-Excel_dashboard_project/blob/main/pizza_sales%20excel%20file%20(Raw%20Data).xlsx
+- Dataset: https://github.com/PrernaShishodia/SQL-Excel_dashboard_project/blob/main/pizza_sales%20excel%20file%20(Raw%20Data).xlsx
 
-**Contains detailed order**-level data, including:
+- **Contains detailed order**-level data, including:
 Order ID
 Pizza Name, Category, and Size
 Quantity, Price
