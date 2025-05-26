@@ -1,6 +1,6 @@
 🍕 #**Pizza Sales Dashboard Analysis ( Interactive Dashboard creation using SQL & MS Excel)**
 
-🎯 ## Project Objective :
+🎯 ##Project Objective :
 The objective of this project is to perform detailed sales analysis of a pizza restaurant using SQL and Excel, uncover insights on sales performance, and create an interactive dashboard to visualize key metrics.
 
 📊 ## Dataset Used :
@@ -11,7 +11,7 @@ Pizza Name, Category, and Size
 Quantity, Price
 Order Date and Time
 
-❓ ## Key Business Questions (KPIs) :
+❓ ##Key Business Questions (KPIs) :
 What is the Total Revenue?
 What is the Average Order Value?
 How many Total Pizzas have been sold?
@@ -23,7 +23,7 @@ What is the % of Sales by Pizza Category and Size?
 Which are the Top 5 Best-Selling Pizzas?
 Which are the Bottom 5 Worst-Selling Pizzas?
 
-🔄 ## Process :
+🔄 ##Process :
 1. Data Cleaning & Preprocessing:
 Cleaned and formatted the Excel dataset.
 Converted date/time columns to appropriate formats.
