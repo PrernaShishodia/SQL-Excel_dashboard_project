@@ -7,7 +7,8 @@ The objective of this project is to perform detailed sales analysis of a pizza r
 📊 ##  **Dataset Used** :
 
 Dataset: https://github.com/PrernaShishodia/SQL-Excel_dashboard_project/blob/main/pizza_sales%20excel%20file%20(Raw%20Data).xlsx
-Contains detailed order-level data, including:
+
+**Contains detailed order**-level data, including:
 Order ID
 Pizza Name, Category, and Size
 Quantity, Price
@@ -15,44 +16,44 @@ Order Date and Time
 
 ❓ ##  **Key Business Questions (KPIs)** :
 
-What is the Total Revenue?
+- What is the Total Revenue?
 
-What is the Average Order Value?
+- What is the Average Order Value?
 
-How many Total Pizzas have been sold?
+- How many Total Pizzas have been sold?
 
-What is the Total Number of Orders?
+- What is the Total Number of Orders?
 
-What is the Average Pizzas per Order?
+- What is the Average Pizzas per Order?
 
-What are the Busiest Days and Times?
+- What are the Busiest Days and Times?
 
-What is the Sales Trend by Day and Hour?
+- What is the Sales Trend by Day and Hour?
 
-What is the % of Sales by Pizza Category and Size?
+- What is the % of Sales by Pizza Category and Size?
 
-Which are the Top 5 Best-Selling Pizzas?
+- Which are the Top 5 Best-Selling Pizzas?
 
-Which are the Bottom 5 Worst-Selling Pizzas?
+- Which are the Bottom 5 Worst-Selling Pizzas?
 
 🔄 ##  **Process** :
 
 1. Data Cleaning & Preprocessing:
    
-Cleaned and formatted the Excel dataset.
-Converted date/time columns to appropriate formats.
+- Cleaned and formatted the Excel dataset.
+- Converted date/time columns to appropriate formats.
 
 3. Data Analysis using SQL:
    
-Connected to the dataset using SQL.
-Wrote SQL queries to answer KPI-related questions.
-Aggregated data on revenue, orders, quantity, time-based trends, and categories.
+- Connected to the dataset using SQL.
+- Wrote SQL queries to answer KPI-related questions.
+- Aggregated data on revenue, orders, quantity, time-based trends, and categories.
 
 5. Dashboard Creation:
    
-Imported cleaned data into Excel.
-Built interactive visualizations using PivotTables, PivotCharts, and slicers.
-Designed an easy-to-navigate dashboard highlighting key insights.
+- Imported cleaned data into Excel.
+- Built interactive visualizations using PivotTables, PivotCharts, and slicers.
+- Designed an easy-to-navigate dashboard highlighting key insights.
 
 🖼️ ##  **Dashboard Image** :
 ![Dashboard image](https://github.com/user-attachments/assets/d47b8864-a921-4dcf-9d47-2c3b63bf1236)
@@ -86,28 +87,28 @@ The California Chicken Pizza
 
 ✅ ##  **Final Conclusion** :
 
-The pizza business is highly active on weekends, especially Friday and Saturday, with a noticeable demand peak during lunch and dinner hours.
+- The pizza business is highly active on weekends, especially Friday and Saturday, with a noticeable demand peak during lunch and dinner hours.
 
-Classic and Large pizzas drive the majority of revenue and sales.
+- Classic and Large pizzas drive the majority of revenue and sales.
 
-There is an opportunity to promote low-performing items or consider menu optimization.
+- There is an opportunity to promote low-performing items or consider menu optimization.
 
-Using SQL for analysis and Excel for dashboarding provides a powerful, low-cost analytics solution for small business
+- Using SQL for analysis and Excel for dashboarding provides a powerful, low-cost analytics solution for small business
 
 📁 ##  **Files in This Repository** :
 
-SQL Queries.docx: SQL scripts used for all KPIs and trend analysis.
+- SQL Queries.docx: SQL scripts used for all KPIs and trend analysis.
 
-Pizza Sales Dataset.xlsx: Cleaned dataset used in Excel.
+- Pizza Sales Dataset.xlsx: Cleaned dataset used in Excel.
 
-Dashboard image.png: Final dashboard screenshot.
+- Dashboard image.png: Final dashboard screenshot.
 
-README.md: Project overview and documentation.
+- README.md: Project overview and documentation.
 
 🚀 ## **Tools Used** :
 
-Microsoft Excel (Dashboard)
+- Microsoft Excel (Dashboard)
 
-SQL (SSMS)
+- SQL (SSMS)
 
-Microsoft Word (SQL Query Documentation)
+- Microsoft Word (SQL Query Documentation)
