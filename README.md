@@ -1,10 +1,10 @@
-🍕 #  **Pizza Sales Dashboard Analysis ( Interactive Dashboard creation using SQL & MS Excel)**
+🍕  **Pizza Sales Dashboard Analysis ( Interactive Dashboard creation using SQL & MS Excel)**
 
 🎯 ##**Project Objective** :
 
 The objective of this project is to perform detailed sales analysis of a pizza restaurant using SQL and Excel, uncover insights on sales performance, and create an interactive dashboard to visualize key metrics.
 
-📊 ##  **Dataset Used** :
+📊 **Dataset Used** :
 
 - Dataset: https://github.com/PrernaShishodia/SQL-Excel_dashboard_project/blob/main/pizza_sales%20excel%20file%20(Raw%20Data).xlsx
 
@@ -14,7 +14,7 @@ Pizza Name, Category, and Size
 Quantity, Price
 Order Date and Time
 
-❓ ##  **Key Business Questions (KPIs)** :
+❓  **Key Business Questions (KPIs)** :
 
 - What is the Total Revenue?
 
@@ -36,7 +36,7 @@ Order Date and Time
 
 - Which are the Bottom 5 Worst-Selling Pizzas?
 
-🔄 ##  **Process** :
+🔄  **Process** :
 
 1. Data Cleaning & Preprocessing:
    
@@ -55,10 +55,10 @@ Order Date and Time
 - Built interactive visualizations using PivotTables, PivotCharts, and slicers.
 - Designed an easy-to-navigate dashboard highlighting key insights.
 
-🖼️ ##  **Dashboard Image** :
+🖼️  **Dashboard Image** :
 ![Dashboard image](https://github.com/user-attachments/assets/d47b8864-a921-4dcf-9d47-2c3b63bf1236)
 
-📍##  **Project Insights** :
+📍 **Project Insights** :
 
 - **Peak Order Days**: Friday and Saturday
 
@@ -85,7 +85,7 @@ The California Chicken Pizza
 
 - **Average Pizzas Per Order**: 2.32
 
-✅ ##  **Final Conclusion** :
+✅ **Final Conclusion** :
 
 - The pizza business is highly active on weekends, especially Friday and Saturday, with a noticeable demand peak during lunch and dinner hours.
 
@@ -95,7 +95,7 @@ The California Chicken Pizza
 
 - Using SQL for analysis and Excel for dashboarding provides a powerful, low-cost analytics solution for small business
 
-📁 ##  **Files in This Repository** :
+📁 **Files in This Repository** :
 
 - SQL Queries.docx: SQL scripts used for all KPIs and trend analysis.
 
@@ -105,7 +105,7 @@ The California Chicken Pizza
 
 - README.md: Project overview and documentation.
 
-🚀 ## **Tools Used** :
+🚀 **Tools Used** :
 
 - Microsoft Excel (Dashboard)
 
