@@ -60,30 +60,30 @@ Order Date and Time
 
 📍##  **Project Insights** :
 
-1.Peak Order Days: Friday and Saturday
+- **Peak Order Days**: Friday and Saturday
 
-2.Peak Order Times: 12 PM–1 PM and 5 PM–8 PM
+- **Peak Order Times**: 12 PM–1 PM and 5 PM–8 PM
 
-3.Top Performing Category: Classic pizzas contribute the highest revenue and order volume.
+- **Top Performing Category**: Classic pizzas contribute the highest revenue and order volume.
 
-4.Top Pizza Size: Large pizzas generate the most sales.
+- **Top Pizza Size**: Large pizzas generate the most sales.
 
-5.Top Selling Pizzas:
+- **Top Selling Pizzas**:
 The Pepperoni Pizza ,
 The Barbecue Chicken Pizza ,
 The California Chicken Pizza
 
-6.Least Selling Pizza: The Brie Carre Pizza
+- **Least Selling Pizza**: The Brie Carre Pizza
 
-7.Total Revenue: $817,860
+- **Total Revenue**: $817,860
 
-8.Average Order Value: $38.31
+- **Average Order Value**: $38.31
 
-9.Total Pizzas Sold: 49,574
+- **Total Pizzas Sold**: 49,574
 
-10.Total Orders: 21,350
+- **Total Orders**: 21,350
 
-11.Average Pizzas Per Order: 2.32
+- **Average Pizzas Per Order**: 2.32
 
 ✅ ##  **Final Conclusion** :
 
