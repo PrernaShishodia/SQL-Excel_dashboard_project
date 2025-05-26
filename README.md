@@ -49,7 +49,7 @@ Order Date and Time
 - Wrote SQL queries to answer KPI-related questions.
 - Aggregated data on revenue, orders, quantity, time-based trends, and categories.
 
-5. Dashboard Creation:
+4. Dashboard Creation:
    
 - Imported cleaned data into Excel.
 - Built interactive visualizations using PivotTables, PivotCharts, and slicers.
