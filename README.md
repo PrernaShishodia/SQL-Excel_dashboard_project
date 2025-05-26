@@ -1,9 +1,9 @@
-🍕 # **Pizza Sales Dashboard Analysis ( Interactive Dashboard creation using SQL & MS Excel)**
+🍕 #  **Pizza Sales Dashboard Analysis ( Interactive Dashboard creation using SQL & MS Excel)**
 
 🎯 ##Project Objective :
 The objective of this project is to perform detailed sales analysis of a pizza restaurant using SQL and Excel, uncover insights on sales performance, and create an interactive dashboard to visualize key metrics.
 
-📊 ## Dataset Used :
+📊 ##  Dataset Used :
 Dataset: https://github.com/PrernaShishodia/SQL-Excel_dashboard_project/blob/main/pizza_sales%20excel%20file%20(Raw%20Data).xlsx
 Contains detailed order-level data, including:
 Order ID
@@ -11,7 +11,7 @@ Pizza Name, Category, and Size
 Quantity, Price
 Order Date and Time
 
-❓ ##Key Business Questions (KPIs) :
+❓ ##  Key Business Questions (KPIs) :
 What is the Total Revenue?
 What is the Average Order Value?
 How many Total Pizzas have been sold?
@@ -23,7 +23,7 @@ What is the % of Sales by Pizza Category and Size?
 Which are the Top 5 Best-Selling Pizzas?
 Which are the Bottom 5 Worst-Selling Pizzas?
 
-🔄 ##Process :
+🔄 ##  Process :
 1. Data Cleaning & Preprocessing:
 Cleaned and formatted the Excel dataset.
 Converted date/time columns to appropriate formats.
@@ -38,10 +38,10 @@ Imported cleaned data into Excel.
 Built interactive visualizations using PivotTables, PivotCharts, and slicers.
 Designed an easy-to-navigate dashboard highlighting key insights.
 
-🖼️ ## Dashboard Image :
+🖼️ ##  Dashboard Image :
 ![Dashboard image](https://github.com/user-attachments/assets/d47b8864-a921-4dcf-9d47-2c3b63bf1236)
 
-📍##Project Insights :
+📍##  Project Insights :
 1.Peak Order Days: Friday and Saturday
 2.Peak Order Times: 12 PM–1 PM and 5 PM–8 PM
 3.Top Performing Category: Classic pizzas contribute the highest revenue and order volume.
@@ -57,13 +57,13 @@ The California Chicken Pizza
 10.Total Orders: 21,350
 11.Average Pizzas Per Order: 2.32
 
-✅ ## Final Conclusion :
+✅ ##  Final Conclusion :
 The pizza business is highly active on weekends, especially Friday and Saturday, with a noticeable demand peak during lunch and dinner hours.
 Classic and Large pizzas drive the majority of revenue and sales.
 There is an opportunity to promote low-performing items or consider menu optimization.
 Using SQL for analysis and Excel for dashboarding provides a powerful, low-cost analytics solution for small business
 
-📁 ## Files in This Repository :
+📁 ##  Files in This Repository :
 SQL Queries.docx: SQL scripts used for all KPIs and trend analysis.
 Pizza Sales Dataset.xlsx: Cleaned dataset used in Excel.
 Dashboard image.png: Final dashboard screenshot.
