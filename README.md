@@ -1,10 +1,10 @@
-🍕 #**Pizza Sales Dashboard Analysis ( Interactive Dashboard creation using SQL & MS Excel)**
+🍕 # **Pizza Sales Dashboard Analysis ( Interactive Dashboard creation using SQL & MS Excel)**
 
 🎯 ##Project Objective :
 The objective of this project is to perform detailed sales analysis of a pizza restaurant using SQL and Excel, uncover insights on sales performance, and create an interactive dashboard to visualize key metrics.
 
 📊 ## Dataset Used :
-Dataset: 
+Dataset: https://github.com/PrernaShishodia/SQL-Excel_dashboard_project/blob/main/pizza_sales%20excel%20file%20(Raw%20Data).xlsx
 Contains detailed order-level data, including:
 Order ID
 Pizza Name, Category, and Size
